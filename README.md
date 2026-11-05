@@ -59,7 +59,7 @@ Aplikasi ini memusatkan data perangkat dan pesanan dalam satu sistem sehingga ca
 
 ## Wireframe
 
-Wireframe berupa desain canva:([https://canva.link/j86g12g1ct4ejwu]). Buka berkas tersebut di browser; navigasi antarhalaman ada di bagian atas.
+Wireframe berupa desain canva: [https://canva.link/j86g12g1ct4ejwu]. Buka berkas tersebut di browser; navigasi antarhalaman ada di bagian atas.
 
 | No | Halaman | Pengguna |
 |---|---|---|
