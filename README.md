@@ -104,4 +104,4 @@ users (admin), perangkat, pesanan
   1. Nila Rahmatika (A11.2025.16565)
   2. Fityay Jovanka N.P. (A11.2025.16566)
   3. Nasayu Evania Rahma (A11.2025.16586)
-- Mata kuliah: Pemogramana Berbasis Web
+- Mata kuliah: Pemrograman Berbasis Web
