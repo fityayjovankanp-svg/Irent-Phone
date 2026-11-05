@@ -1,0 +1,12 @@
+# Sistem operasi dan editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Konfigurasi lokal (jangan di-commit)
+config.local.php
+.env
+
+# Berkas unggahan pengguna
+assets/img/uploads/
