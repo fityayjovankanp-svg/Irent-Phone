@@ -2,10 +2,6 @@
 
 Aplikasi web untuk menyewa ponsel iPhone dan Samsung. Penyewa dapat menjelajahi perangkat, melihat spesifikasi dan biaya sewa, lalu membuat pesanan, sedangkan admin mengelola data perangkat dan pesanan.
 
-Proyek ini merupakan penerapan topik **Sistem Peminjaman Inventaris**, dengan barang inventaris berupa unit ponsel (iPhone dan Samsung).
-
-> **Status: Milestone 1 (Minggu 1-2)** - perencanaan proyek dan persiapan lingkungan kerja. Belum ada kode aplikasi; semua fitur di bawah masih berupa rencana. Rancangan tampilan mengacu pada desain presentasi tim (Canva).
-
 ## Latar Belakang Masalah
 
 Menyewa ponsel untuk kebutuhan sementara, misalnya liburan, acara, atau membuat konten, lebih hemat daripada membeli ponsel baru. Namun pada usaha rental kecil, prosesnya umumnya masih manual lewat chat dan catatan terpisah. Akibatnya:
@@ -31,7 +27,6 @@ Aplikasi ini memusatkan data perangkat dan pesanan dalam satu sistem sehingga ca
 | Penyewa (pengunjung, tanpa akun) | Mencari dan memfilter perangkat; melihat spesifikasi, kondisi, dan ketersediaan; menghitung biaya sewa dan deposit; membuat pesanan dengan mengisi data diri hanya saat transaksi; melihat status pesanan |
 | Admin (pemilik/pengelola rental) | Login; mengelola data perangkat; memantau dan mengubah status pesanan; melihat ringkasan di dashboard |
 
-Catatan: desain presentasi tim hanya mencakup sisi penyewa. Halaman admin ditambahkan pada wireframe karena dibutuhkan untuk mengelola data perangkat dan pesanan.
 
 ## Fitur Utama
 
@@ -105,5 +100,8 @@ users (admin), perangkat, pesanan
 
 ## Pengembang
 
-- Nama: _isi nama dan NIM_
-- Mata kuliah: _isi nama mata kuliah_
+- Nama Anggota:
+  1. Nila Rahmatika (A11.2025.16565)
+  2. Fityay Jovanka N.P. (A11.2025.16566)
+  3. Nasayu Evania Rahma (A11.2025.16586)
+- Mata kuliah: Pemogramana Berbasis Web
