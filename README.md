@@ -13,12 +13,25 @@ Menyewa ponsel untuk kebutuhan sementara, misalnya liburan, acara, atau membuat 
 
 Aplikasi ini memusatkan data perangkat dan pesanan dalam satu sistem sehingga calon penyewa dapat memilih dan memesan dengan jelas, dan admin dapat memantau unit serta pesanan.
 
-### Manfaat
+## Manfaat
 
 - Calon penyewa dapat mencari perangkat, melihat harga dan deposit, lalu membuat pesanan dalam beberapa langkah.
 - Biaya sewa dihitung otomatis dari durasi dan tanggal sewa.
 - Status unit dan pesanan dapat dipantau oleh admin.
 - Riwayat pesanan terdokumentasi dan mudah dicari.
+
+## Tujuan
+
+Tujuan umum proyek ini adalah merancang dan membangun aplikasi web penyewaan iPhone dan Samsung yang memudahkan calon penyewa memilih dan memesan perangkat, serta memudahkan admin mengelola data perangkat dan pesanan dalam satu sistem.
+
+### Tujuan khususnya:
+
+1. Menyediakan halaman bagi penyewa untuk mencari dan memfilter perangkat, melihat spesifikasi, harga per hari, deposit, dan ketersediaan.
+2. Menghitung biaya sewa, deposit, dan total pembayaran secara otomatis berdasarkan durasi dan tanggal sewa.
+3. Menyediakan proses pemesanan yang singkat tanpa perlu membuat akun.
+4. Menyediakan halaman admin untuk mengelola data perangkat, memantau status unit, dan mengubah status pesanan.
+5. Mendokumentasikan riwayat pesanan agar mudah dicari dan ditelusuri.
+6. Menerapkan materi mata kuliah Pemrograman Berbasis Web (PHP, MySQL, HTML, CSS, dan JavaScript) dalam sebuah proyek yang utuh.
 
 ## Target Pengguna dan Kebutuhan
 
@@ -48,7 +61,7 @@ Aplikasi ini memusatkan data perangkat dan pesanan dalam satu sistem sehingga ca
 5. Hapus data dengan konfirmasi.
 6. Tabel daftar data dengan pencarian dan filter.
 
-### Rencana Pengembangan (Opsional)
+## Rencana Pengembangan (Opsional)
 
 - Pagination dengan jQuery AJAX
 - Tampilan tanggal dan waktu dengan JavaScript
